@@ -1,0 +1,24 @@
+{
+  "name": "face-landmark-filters",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.11.0",
+    "@vladmandic/face-api": "^1.5.8",
+    "canvas": "^2.8.0",
+    "cloudinary": "^1.27.1",
+    "formidable": "^2.0.1",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.4.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
